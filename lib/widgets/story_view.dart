@@ -20,7 +20,7 @@ enum IndicatorHeight { small, large }
 class StoryUser {
   final String avatar;
   final String uesrname;
-  final String id;
+  final int id;
 
   StoryUser({
     required this.avatar,
